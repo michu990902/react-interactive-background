@@ -1,0 +1,20 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.glass{
+    width: 350px;
+    height: 250px;
+    padding: 10px;
+    text-align: center;
+
+    background: rgba( 255, 255, 255, 0.03 );
+    box-shadow: 0 8px 32px 0 rgba( 255, 255, 255, 0.1 );
+    backdrop-filter: blur( 4.0px );
+    -webkit-backdrop-filter: blur( 4.0px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.2 );
+}
