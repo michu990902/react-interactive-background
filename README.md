@@ -1,3 +1,3 @@
 # Interactive Background
 
-![Interactive Background](https://github.com/michu990902/react-interactive-background/tree/master/screenshots/1.png)
+![Interactive Background](https://raw.githubusercontent.com/michu990902/react-interactive-background/master/screenshots/1.png)
